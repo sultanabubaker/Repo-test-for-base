@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://drive.google.com/file/d/1s8yk8ZT67Ea5t4g2JKL2cZT1cOmaDytE/view?usp=sharing",
+    "configExternalURL": "https://raw.githubusercontent.com/sultanabubaker/Repo-external-sultan/main/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
