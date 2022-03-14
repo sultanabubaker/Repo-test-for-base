@@ -1,8 +1,8 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/sultanabubaker/Repo-external-sultan/main/whitesource.config",
-    "projectToken": "d7d4077d05954e3387109e21a367cb317ebb9c0197714db38d32d0d047faec64",
+    "configExternalURL": "https://raw.githubusercontent.com/sultanabubaker/Repo-external-sultan/main/sultan.config",
+    "projectToken": "",
     "baseBranches": []
   },
   "checkRunSettings": {
