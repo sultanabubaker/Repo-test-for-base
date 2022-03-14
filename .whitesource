@@ -1,9 +1,9 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/sultanabubaker/Repo-external-sultan/tree/main",
     "projectToken": "",
-    "baseBranches": [first_dev_branch]
+    "baseBranches": []
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
