@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/sultanabubaker/Repo-external-sultan/main/xyz.config",
+    "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
   },
